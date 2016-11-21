@@ -1,6 +1,6 @@
 # netv2-derive_km
 
-=Km management tool for NeTV2=
+## Km management tool for NeTV2
 
 This helper tool communicates with the NeTV2 FPGA via PCI BARs.
 It reads out the Ksv values captured from the hot-plug handshake
